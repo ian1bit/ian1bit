@@ -1,1 +1,2 @@
-
+- 🔭 Hoje trabalho com front-end
+- 🎯 Estudando ReactJS
