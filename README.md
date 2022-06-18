@@ -1,4 +1,10 @@
-<p style="display: inline" align="center">🔭 Hoje trabalho com front-end | 🎯 Estudando ReactJS | 😁 Pronomes: ele/dele</p>
+<div align="center">
+  <h1>Oi, meu nome é Ian Pereira</h1>
+  
+  ##
+  
+  <p></p>
+</div>
   
 ##
 
