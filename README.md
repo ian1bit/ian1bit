@@ -2,8 +2,8 @@
  <h1>Oi, meu nome é Ian Pereira</h1>
 <div align="center">
   <a href="https://github.com/ian1bit">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ian1bit&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ian1bit&layout=compact&langs_count=7&theme=dark"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=ian1bit&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ian1bit&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
 <div style="display: inline-block" align="center"><br>
@@ -20,7 +20,7 @@
   <a href="https://www.linkedin.com/in/ianbit/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
   
-<h2>📚 Aprendendo: 
+<h2>🌱 Aprendendo: 
   <div margin="10px">
      <img alt="Ian-ReactJS" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
   </div>  
