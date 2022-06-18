@@ -1,13 +1,5 @@
 <div align="center">
-  <h1>Oi, meu nome é Ian Pereira</h1>
-  
-  ##
-  
-  <p></p>
-</div>
-  
-##
-
+ <h1>Oi, meu nome é Ian Pereira</h1>
 <div align="center">
   <a href="https://github.com/ian1bit">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ian1bit&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -27,6 +19,12 @@
   <a href = "mailto:ian.kzw@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">   </a>
   <a href="https://www.linkedin.com/in/ianbit/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+  
+<h2>📚 Aprendendo: 
+  <div margin="10px">
+     <img alt="Ian-ReactJS" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+  </div>  
+</h2>
   
 ![Snake animation](https://github.com/ian1bit/ian1bit/blob/output/github-contribution-grid-snake.svg)
   
