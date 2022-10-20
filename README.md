@@ -1,13 +1,14 @@
 ### About Me
 Hey there! I'm Ian Pereira, 20 years old, currently living in Brazil.
 
-I currently learn web and mobile technologies independently, through courses and documentation.
+I'm currently migrating to the technology area, where my curiosity has always been since I was little when I was already dealing with website interfaces. I started to take this passion seriously since then, where I try to take to myself and with whom I work high discipline and responsibility.
 
-A software developer who is also passionate about user interface design.
+A software developer who is also passionate about UI design and linux world.
 
 ### Technologies
 - Front-end Development with HTML, CSS, Javascript, React and NextJS.
 - User Interface Design.
+- Shell Script
 
 ### Contact Me
 
