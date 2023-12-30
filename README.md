@@ -8,6 +8,7 @@ A software developer who is also passionate about UI design and linux world.
 ### Technologies
 - Front-end Development with HTML, CSS, Javascript, React and NextJS.
 - User Interface Design.
+- Learning C++ and your technologies.
 - Linux.
 
 ### Contact Me
